@@ -1,0 +1,43 @@
+(LIN CV_C) Příjmení:....................... Třída:....... Datum:...........
+
+V terminálu serveru TuX si naklonujte podkladové soubory:
+
+  $ git clone https://github.com/edumach/lincvc
+
+Přesuňte se do adresáře lincvc a splňte následující úkoly:
+
+
+(1) Napište příkaz, který z adresáře data zkopíruje všechny soubory 
+    s příponou .ini do nového adresáře konfigurace:
+
+    $ ______________________________________________________________
+
+
+(2) V souboru hlasovani.txt se nachází seznam mnoha čísel. Napište příkaz, 
+    který do souboru pocet.txt zapíše počet všech čísel:
+
+    $ ______________________________________________________________
+
+    Tento počet zapište sem: ______________
+
+
+(3) V souboru obrazek.txt jsou kódy barev každého pixelu jednoho obrázku 
+    (ve tvaru RRGGBB). Napište příkaz, který do souboru barvy.txt zapíše počet 
+    řádků, kde se alespoň jednou vyskytuje bílá barva (bude se hodit příkaz grep):
+
+    $ ______________________________________________________________
+
+    Tento počet zapište sem: ______________
+
+
+(4) V souboru hotely.csv je tabulka s přehledem ubytovacích zařízení. 
+    Sestavte příkaz, který do souboru cheb.txt vypíše pouze ty v Chebu:  
+
+    $ ______________________________________________________________
+
+
+(5) Napište příkaz, který do souboru hlasy.txt zapíše unikátní čísla ze 
+    souboru hlasovani.txt (bude se hodit příkaz uniq):
+
+    $ ______________________________________________________________
+
